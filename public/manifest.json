@@ -3,12 +3,12 @@
     "short_name": "HackerWeb",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#fff",
-    "description": "A simply readable Hacker News app.",
+    "background_color": "#4E3DAE",
+    "description": "A iranian pay app",
     "icons": [{
       "src": "/nextpaylogo.png",
       "sizes": "48x48",
       "type": "image/png"
-    }],
+    }]
 
   }
