@@ -1,0 +1,9 @@
+{
+    "name": "next pay",
+    "short_name": "pay app",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
