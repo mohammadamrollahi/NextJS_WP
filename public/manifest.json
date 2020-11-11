@@ -1,9 +1,14 @@
 {
-    "name": "next pay",
-    "short_name": "pay app",
-    "theme_color": "#2196f3",
-    "background_color": "#2196f3",
-    "display": "fullscreen",
-    "scope": "/",
-    "start_url": "/"
+    "name": "HackerWeb",
+    "short_name": "HackerWeb",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A simply readable Hacker News app.",
+    "icons": [{
+      "src": "/nextpaylogo.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }],
+
   }
